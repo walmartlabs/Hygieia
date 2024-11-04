@@ -21,7 +21,7 @@
     "scmUrl": "https:\/\/github.com\/eei\/bedrock-app",
     "scmBranch": "master",
     "scmRevisionNumber": "7fbf0eede2e86c614db86c61a6cfc9e4b961e5fd",
-    "scmCommitLog": "Fix Summary (Brief): Changes to the app as part of tech upgrade\nChange Description (Details): Code changes to accomodate new tech stack\nJIRA(s): CPNBCP-2893\nLink(s) (e.g., git CL): \/display\/CPNBCP\/NG+Bedrock+TechStack+upgrade#NGBedrockTechStackupgrade-3rdParty\/OpenSourceLibraries\nReviewer(s): rjha\nUT Summary: Ensure existing test cases are successful",
+    "scmCommitLog": "----",
     "scmAuthor": "Balaji Katika",
     "scmAuthorLogin": "bkatika",
     "scmParentRevisionNumbers": [
